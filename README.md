@@ -25,8 +25,11 @@ Currently exploring **Big Data Analytics, Full Stack Development, and Software E
 - [**TaskFlow – Employee Task Management System**](https://github.com/Surbhi28singh/TaskFlow-Employee-Task-Assignment-System)  
 React + Tailwind app to assign, track, and manage employee tasks efficiently.  
 
-- [**Portfolio Website**](https://github.com/Surbhi28singh/Portfolio)  
-Responsive portfolio built with React & Tailwind CSS showcasing projects and skills.  
+- [**My Notes App**](https://github.com/Surbhi28singh/NotesApp)  
+A personal notes application built with React & Tailwind CSS for organizing daily notes and tasks.  
+
+- [**Amazon Landing Page Clone**](https://github.com/Surbhi28singh/Amazon-Clone)  
+Responsive Amazon landing page 
 
 ### **Data Analytics & Machine Learning**
 - [**Sales Insight Dashboard**](https://github.com/Surbhi28singh/Sales_insight_dashboard)  
