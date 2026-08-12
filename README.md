@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Surbhi%20Singh&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=33&desc=Data%20Analyst%20%C2%B7%20Power%20BI%20Developer%20%C2%B7%20Data%20Engineer&descAlignY=52&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Surbhi%20Singh&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=33&desc=Data%20Engineer%20%C2%B7%20Power%20BI%20Developer%20%C2%B7%20Applied%20ML&descAlignY=52&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=1200&color=2C5364&center=true&vCenter=true&width=700&lines=Building+Bronze+%E2%86%92+Silver+%E2%86%92+Gold+pipelines+on+Microsoft+Fabric;Turning+raw+data+into+decision-ready+Power+BI+products;Writing+PySpark+by+day%2C+React+components+by+night;Currently+shipping%3A+Earthquake+Data+Pipeline" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=1200&color=2C5364&center=true&vCenter=true&width=700&lines=Building+Bronze+%E2%86%92+Silver+%E2%86%92+Gold+pipelines+on+Microsoft+Fabric;Shipping+ML-backed+forecasting+into+production+Power+BI+reports;Writing+PySpark+by+day%2C+React+components+by+night;Currently+shipping%3A+Retail+Supply+Chain+Intelligence+Platform" alt="Typing SVG" />
 
 <br>
 
@@ -22,7 +22,7 @@
 
 <br>
 
-I work across the full analytics stack — pipeline, model, and report — instead of stopping at any one stage. Right now: building Medallion-architecture pipelines in **Microsoft Fabric**, shipping them as **Power BI** products used for live business decisions, and stepping outside BI tooling when an insight needs a real interface instead of a dashboard tile.
+I work across the full analytics stack — **pipeline → model → report** — rather than stopping at any one stage. Day to day: designing Medallion-architecture pipelines in **Microsoft Fabric**, layering ML forecasting on top (Prophet, anomaly detection), and shipping the result as **Power BI** products that live business decisions actually run on.
 
 <br>
 
@@ -32,17 +32,17 @@ I work across the full analytics stack — pipeline, model, and report — inste
 <td align="center" width="220">
 <img src="https://img.icons8.com/fluency/48/data-configuration.png" width="40"/><br/>
 <b>Engineer</b><br/>
-<sub>Pipelines that don't break at 2am</sub>
+<sub>Bronze → Silver → Gold pipelines that hold up in production</sub>
 </td>
 <td align="center" width="220">
-<img src="https://img.icons8.com/fluency/48/combo-chart.png" width="40"/><br/>
-<b>Analyze</b><br/>
-<sub>Numbers that hold up under questioning</sub>
+<img src="https://img.icons8.com/fluency/48/artificial-intelligence.png" width="40"/><br/>
+<b>Model</b><br/>
+<sub>Forecasting and anomaly detection, not just dashboards</sub>
 </td>
 <td align="center" width="220">
 <img src="https://img.icons8.com/fluency/48/rocket.png" width="40"/><br/>
 <b>Ship</b><br/>
-<sub>Interfaces, not just exports</sub>
+<sub>Reports and interfaces stakeholders actually use</sub>
 </td>
 </tr>
 </table>
@@ -57,13 +57,13 @@ I work across the full analytics stack — pipeline, model, and report — inste
 <sub><b>DATA ENGINEERING & BI</b></sub><br/>
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure Data Factory](https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-<sub><b>LANGUAGES</b></sub><br/>
+<sub><b>ML & LANGUAGES</b></sub><br/>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 <sub><b>APPLICATION LAYER</b></sub><br/>
@@ -88,12 +88,34 @@ I work across the full analytics stack — pipeline, model, and report — inste
 <tr>
 <td width="50%" valign="top">
 
+### 🏭 Retail Supply Chain Intelligence Platform
+**Microsoft Fabric · PySpark · Prophet · Power BI**
+
+Full Medallion pipeline (Bronze/Silver/Gold) with SCD Type 2 dimension tracking, Prophet-based stockout forecasting, and a 3-page Power BI reporting layer with 13 DAX measures. Deployed across Dev/Test/Prod via Fabric Deployment Pipelines.
+
+[`View Repo →`](https://github.com/Surbhi28singh/retail-supply-chain-fabric-platform)
+
+</td>
+<td width="50%" valign="top">
+
 ### 🌍 Earthquake Data Pipeline
 **Microsoft Fabric · PySpark · Power BI**
 
-Medallion architecture (Bronze→Silver→Gold) ingesting live USGS seismic data, orchestrated end-to-end in Fabric Data Factory, visualized through a geospatial Power BI report.
+Medallion architecture ingesting live USGS seismic data, orchestrated end-to-end in Fabric Data Factory, visualized through a geospatial Power BI report.
 
 [`View Repo →`](https://github.com/Surbhi28singh/Earthquake-Data-Engineering-Project-with-Microsoft-Fabric)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛰️ Sensor Grid Anomaly Detection
+**Python**
+
+Anomaly detection system for monitoring real-time sensor data streams.
+
+[`View Repo →`](https://github.com/Surbhi28singh/sensor-grid-anomaly-detection)
 
 </td>
 <td width="50%" valign="top">
@@ -120,34 +142,12 @@ Interactive sales dashboard turning raw transactional data into stakeholder-read
 </td>
 <td width="50%" valign="top">
 
-### 🛰️ Sensor Grid Anomaly Detection
-**Python**
-
-Anomaly detection system for monitoring real-time sensor data streams.
-
-[`View Repo →`](https://github.com/Surbhi28singh/sensor-grid-anomaly-detection)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 ### ✅ TaskFlow
 **React · Tailwind CSS**
 
 Employee task assignment and tracking application.
 
 [`View Repo →`](https://github.com/Surbhi28singh/TaskFlow-Employee-Task-Assignment-System)
-
-</td>
-<td width="50%" valign="top">
-
-### 📝 Notes App
-**React · Tailwind CSS**
-
-A responsive personal notes application for daily task organization.
-
-[`View Repo →`](https://github.com/Surbhi28singh/NotesApp)
 
 </td>
 </tr>
@@ -174,7 +174,7 @@ A responsive personal notes application for daily task organization.
 
 <br><br>
 
-**Open to Data Analyst, Power BI Developer & Data Engineer roles**
+**Open to Data Engineer, Power BI Developer & Data Analyst roles**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surbhi-singh-720113297/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iamsurbhi2003@gmail.com)
