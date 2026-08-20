@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=230&section=header&text=Surbhi%20Singh&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Data%20Engineer%20%C2%B7%20Power%20BI%20Developer%20%C2%B7%20Applied%20ML&descAlignY=50&descSize=17" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=1200&color=2C5364&center=true&vCenter=true&width=700&lines=Building+Bronze+%E2%86%92+Silver+%E2%86%92+Gold+pipelines+on+Microsoft+Fabric;Shipping+ML-backed+forecasting+into+production+Power+BI+reports;Writing+PySpark+by+day%2C+React+components+by+night;Currently+shipping%3A+Retail+Supply+Chain+Intelligence+Platform" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=1200&color=2C5364&center=true&vCenter=true&width=750&lines=Building+Bronze+%E2%86%92+Silver+%E2%86%92+Gold+pipelines+on+Microsoft+Fabric;Shipping+ML-backed+forecasting+into+production+Power+BI+reports;Writing+PySpark+by+day%2C+React+components+by+night;Currently+shipping%3A+Retail+Supply+Chain+Intelligence+Platform" alt="Typing SVG" />
 
 <br>
 
@@ -18,24 +18,26 @@
 
 <br>
 
-## 👋 About
+## 👋 About Me
 
-I work across the full analytics stack — **pipeline → model → report** — rather than stopping at any one stage. Day to day: designing Medallion-architecture pipelines in **Microsoft Fabric**, layering ML forecasting on top (Prophet, anomaly detection), and shipping the result as **Power BI** products that live business decisions actually run on.
+I work across the full analytics stack — **pipeline → model → report** — instead of stopping at any single layer. On a given day, that means designing Medallion-architecture pipelines in **Microsoft Fabric**, layering ML-driven forecasting on top (Prophet, anomaly detection), and shipping the result as **Power BI** products that real business decisions actually run on.
+
+I care less about dashboards that just *look* good and more about ones that hold up under real data volume, real refresh schedules, and real stakeholder questions.
 
 <div align="center">
 <table>
 <tr>
-<td align="center" width="220">
+<td align="center" width="230">
 <b>🏗️ Engineer</b><br/>
-<sub>Bronze → Silver → Gold pipelines that hold up in production</sub>
+<sub>Bronze → Silver → Gold pipelines built to survive production</sub>
 </td>
-<td align="center" width="220">
+<td align="center" width="230">
 <b>🧠 Model</b><br/>
-<sub>Forecasting and anomaly detection, not just dashboards</sub>
+<sub>Forecasting & anomaly detection layered on real data, not toy datasets</sub>
 </td>
-<td align="center" width="220">
+<td align="center" width="230">
 <b>🚀 Ship</b><br/>
-<sub>Reports and interfaces stakeholders actually use</sub>
+<sub>Reports and interfaces stakeholders actually open and use</sub>
 </td>
 </tr>
 </table>
@@ -89,7 +91,7 @@ I work across the full analytics stack — **pipeline → model → report** —
 ### 🏭 Retail Supply Chain Intelligence Platform
 **Microsoft Fabric · PySpark · Prophet · Power BI**
 
-Full Medallion pipeline (Bronze/Silver/Gold) with SCD Type 2 dimension tracking, Prophet-based stockout forecasting, and a 3-page Power BI reporting layer with 13 DAX measures. Deployed across Dev/Test/Prod via Fabric Deployment Pipelines.
+End-to-end Medallion pipeline (Bronze/Silver/Gold) with SCD Type 2 dimension tracking, Prophet-based stockout forecasting, and a 3-page Power BI reporting layer backed by 13 DAX measures. Deployed across Dev/Test/Prod using Fabric Deployment Pipelines.
 
 [`View Repo →`](https://github.com/Surbhi28singh/retail-supply-chain-fabric-platform)
 
@@ -99,7 +101,7 @@ Full Medallion pipeline (Bronze/Silver/Gold) with SCD Type 2 dimension tracking,
 ### 🌍 Earthquake Data Pipeline
 **Microsoft Fabric · PySpark · Power BI**
 
-Medallion architecture ingesting live USGS seismic data, orchestrated end-to-end in Fabric Data Factory, visualized through a geospatial Power BI report.
+Medallion architecture ingesting live USGS seismic data, orchestrated end-to-end in Fabric Data Factory and visualized through a geospatial Power BI report.
 
 [`View Repo →`](https://github.com/Surbhi28singh/Earthquake-Data-Engineering-Project-with-Microsoft-Fabric)
 
@@ -111,7 +113,7 @@ Medallion architecture ingesting live USGS seismic data, orchestrated end-to-end
 ### 🛰️ Sensor Grid Anomaly Detection
 **Python**
 
-Anomaly detection system for monitoring real-time sensor data streams.
+Anomaly detection system for monitoring real-time sensor data streams, built to flag deviations before they become failures.
 
 [`View Repo →`](https://github.com/Surbhi28singh/sensor-grid-anomaly-detection)
 
@@ -121,7 +123,7 @@ Anomaly detection system for monitoring real-time sensor data streams.
 ### 📊 Vendor Performance Analysis
 **Power BI · Excel**
 
-End-to-end vendor evaluation across cost, delivery, and quality metrics for procurement decision-making.
+End-to-end vendor evaluation across cost, delivery, and quality metrics, built to support procurement decision-making.
 
 [`View Repo →`](https://github.com/Surbhi28singh/Vendor-Performance-Analysis)
 
@@ -143,7 +145,7 @@ Interactive sales dashboard turning raw transactional data into stakeholder-read
 ### ✅ TaskFlow
 **React · Tailwind CSS**
 
-Employee task assignment and tracking application.
+Employee task assignment and tracking application built for lightweight team workflows.
 
 [`View Repo →`](https://github.com/Surbhi28singh/TaskFlow-Employee-Task-Assignment-System)
 
@@ -179,7 +181,9 @@ Employee task assignment and tracking application.
 
 <div align="center">
 
-**Open to Data Engineer, Power BI Developer & Data Analyst roles**
+### 🎯 Open to Data Engineer, Power BI Developer & Data Analyst roles
+
+*Always glad to talk pipelines, dashboards, or where ML actually earns its place in a BI stack.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surbhi-singh-720113297/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iamsurbhi2003@gmail.com)
